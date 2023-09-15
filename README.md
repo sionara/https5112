@@ -1,2 +1,2 @@
 # https5112
-SQL-C#-ASP.NET-class
+SQL and C#/ASP.NET class.
